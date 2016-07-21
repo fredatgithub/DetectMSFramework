@@ -14,7 +14,6 @@ namespace ConsoleApplication1
       Console.ReadKey();
     }
 
-
     public static Collection<Version> InstalledDotNetVersions()
     {
       Collection<Version> versions = new Collection<Version>();
